@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "com/meetSky/step_definitions",
         dryRun = false,
-        tags = "@MEET-136"
+        tags = "@hiltas"
 )
 public class CukesRunner {
 }
